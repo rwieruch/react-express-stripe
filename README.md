@@ -12,7 +12,7 @@ Tutorial can be found [here](https://www.robinwieruch.de/react-express-stripe/).
 * Register at [Stripe](https://stripe.com/) and Setup a Payment Account to access the Dashboard
 * Find your API Keys (test_, live_)
 * Replace frontend API keys: frontend/src/constants
-* Replace backend APIU keys: server/constants/
+* Replace backend APIU keys: backend/constants/
 
 ## Installation: Frontend
 
