@@ -12,8 +12,6 @@ const fromEuroToCent = amount => amount * 100;
 const successPayment = data => {
   alert('Payment Successful');
   console.log(data);
-  // save email to backend
-  // route to next page
 };
 
 const errorPayment = data => {

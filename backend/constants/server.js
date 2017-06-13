@@ -7,4 +7,4 @@ const SERVER_CONFIGS = {
   PORT: process.env.PORT || SERVER_PORT,
 };
 
-module.exports = SERVER_CONFIGS
+module.exports = SERVER_CONFIGS;

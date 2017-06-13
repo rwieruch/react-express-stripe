@@ -13,8 +13,8 @@ class App extends Component {
         </div>
         <p className="App-intro">
           <Checkout
-            name={'Taming the State'}
-            description={'Only the Book'}
+            name={'The Road to learn React'}
+            description={'Open Source React Book'}
             amount={1}
           />
         </p>
