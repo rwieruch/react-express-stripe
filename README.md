@@ -7,21 +7,21 @@
 * `git clone git@github.com:rwieruch/react-express-stripe.git`
 * `cd react-express-stripe`
 
-## Installation: Stripe Registration and API Keys
+### Stripe Registration and API Keys
 
 * Register at [Stripe](https://stripe.com/) and Setup a Payment Account to access the Dashboard
 * Find your API Keys (test_, live_)
 * Replace frontend API keys: frontend/src/constants
 * Replace backend APIU keys: backend/constants/
 
-## Installation: Frontend
+### Frontend
 
 * `cd frontend`
 * `npm install`
 * `npm start`
 * visit http://localhost:3000/
 
-## Installation: Backend
+### Backend
 
 * `cd backend`
 * `npm install`
