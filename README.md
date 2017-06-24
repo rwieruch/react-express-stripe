@@ -11,8 +11,8 @@
 
 * Register at [Stripe](https://stripe.com/) and Setup a Payment Account to access the Dashboard
 * Find your API Keys (test_, live_)
-* Replace frontend API keys: frontend/src/constants
-* Replace backend APIU keys: backend/constants/
+* Replace frontend API keys: frontend/src/constants/
+* Replace backend API keys: backend/constants/
 
 ### Frontend
 
