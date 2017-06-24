@@ -1,6 +1,6 @@
 # Minimal Boilerplate for Stripe used in React and Express
 
-Tutorial can be found [here](https://www.robinwieruch.de/react-express-stripe-payment/).
+[A full walkthrough tutorial of implementing this boilerplate project.](https://www.robinwieruch.de/react-express-stripe-payment/)
 
 ## Installation
 
