@@ -18,6 +18,7 @@ class App extends Component {
             amount={1}
           />
         </p>
+        <p>Found in <a href="https://roadtoreact.com/">the Road to learn React</a></p>
       </div>
     );
   }
