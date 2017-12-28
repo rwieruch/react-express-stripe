@@ -1,5 +1,7 @@
 # Minimal Boilerplate for Stripe used in React and Express
 
+[![Build Status](https://travis-ci.org/rwieruch/react-express-stripe.svg?branch=master)](https://travis-ci.org/rwieruch/react-express-stripe)
+
 * [A full walkthrough tutorial of implementing this boilerplate project.](https://www.robinwieruch.de/react-express-stripe-payment/)
 * Found in [the Road to learn React](https://roadtoreact.com/)
 
