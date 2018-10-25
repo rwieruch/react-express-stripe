@@ -1,6 +1,6 @@
 # Minimal Boilerplate for Stripe used in React and Express
 
-[![Build Status](https://travis-ci.org/rwieruch/react-express-stripe.svg?branch=master)](https://travis-ci.org/rwieruch/react-express-stripe) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
+[![Build Status](https://travis-ci.org/rwieruch/react-express-stripe.svg?branch=master)](https://travis-ci.org/rwieruch/react-express-stripe) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/) [![Greenkeeper badge](https://badges.greenkeeper.io/rwieruch/react-express-stripe.svg)](https://greenkeeper.io/)
 
 * [A full walkthrough tutorial of implementing this boilerplate project.](https://www.robinwieruch.de/react-express-stripe-payment/)
 * Found in [the Road to learn React](https://roadtoreact.com/)
