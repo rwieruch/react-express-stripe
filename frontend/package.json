@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "react-scripts": "1.0.7"
+    "react-scripts": "2.0.5"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.18.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-stripe-checkout": "^2.4.0"
