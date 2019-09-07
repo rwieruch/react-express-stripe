@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/rwieruch/react-express-stripe.svg?branch=master)](https://travis-ci.org/rwieruch/react-express-stripe) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
 
+<img width="1275" alt="Screenshot 2019-09-07 at 11 35 07" src="https://user-images.githubusercontent.com/2479967/64469390-b6c76880-d163-11e9-9656-467d6920655c.png">
+
 - **Deprecated due to SCA:** ~[A full walkthrough tutorial of implementing this boilerplate project.](https://www.robinwieruch.de/react-express-stripe-payment/)~
 
 - SCA ready Tutorials: 
