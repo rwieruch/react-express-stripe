@@ -4,7 +4,9 @@
 
 - **Deprecated due to SCA:** ~[A full walkthrough tutorial of implementing this boilerplate project.](https://www.robinwieruch.de/react-express-stripe-payment/)~
 
-- SCA ready Tutorials: [Stripe Server Checkout](https://stripe.com/docs/payments/checkout/server#create-one-time-payments), [Stripe Webhook Fulfillment](https://stripe.com/docs/payments/checkout/fulfillment#webhooks)
+- SCA ready Tutorials: 
+  - [Stripe Server Checkout](https://stripe.com/docs/payments/checkout/server#create-one-time-payments)
+  - [Stripe Webhook Fulfillment](https://stripe.com/docs/payments/checkout/fulfillment#webhooks)
 
 ## Installation
 
@@ -19,7 +21,8 @@
 - Find your API Keys:
 - Replace frontend API keys: 'YOUR_STRIPE_PUBLIC_KEY
 - Replace backend API keys: 'YOUR_STRIPE_SECRET_KEY'
-- Replace backend Webhook secret: 'YOUR_STRIPE_WEBHOOK_SECRET' (needs a Webhook setup on your Stripe dashboard)
+- Replace backend Webhook secret: 'YOUR_STRIPE_WEBHOOK_SECRET'
+  - needs a [Webhook setup on your Stripe dashboard](https://stripe.com/docs/payments/checkout/fulfillment#webhooks)
 
 ### Frontend
 
