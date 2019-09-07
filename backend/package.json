@@ -19,7 +19,6 @@
   "devDependencies": {
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
-    "nodemon": "^1.19.2",
-    "npm": "^6.11.3"
+    "nodemon": "^1.19.2"
   }
 }
