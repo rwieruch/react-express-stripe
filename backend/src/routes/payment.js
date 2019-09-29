@@ -18,7 +18,7 @@ const paymentApi = app => {
       cancelUrl,
     } = req.body;
 
-    const stripe = Sripe('YOUR_STRIPE_SECRET_KEY');
+    const stripe = Stripe('YOUR_STRIPE_SECRET_KEY');
 
     let session;
 
