@@ -39,7 +39,7 @@ const paymentApi = app => {
   });
 
   app.post('/payment/session-complete', async (req, res) => {
-    const stripe = Sripe('YOUR_STRIPE_SECRET_KEY');
+    const stripe = Stripe('YOUR_STRIPE_SECRET_KEY');
 
     let event;
 
