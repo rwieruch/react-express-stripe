@@ -28,6 +28,9 @@ const paymentApi = app => {
         customer_email: customerEmail,
         payment_method_types: ['card'],
         line_items: [lineItem],
+        payment_intent_data: {
+          description: `${lineItem.name} ${lineItem.description}`,
+        },
         success_url: successUrl,
         cancel_url: cancelUrl,
       });
